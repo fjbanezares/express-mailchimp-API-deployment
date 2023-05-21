@@ -1,0 +1,8 @@
+url-lists: https://mailchimp.com/developer/marketing/api/list-members/add-member-to-list/
+audiences: https://mailchimp.com/developer/marketing/api/lists/get-lists-info/
+
+pepe:
+  - a
+  - b
+  - c
+  - d
